@@ -1,0 +1,10 @@
+.venv
+venv
+env
+.env
+__pycache__
+*.xml
+*.iml
+db.sqlite3
+**/__pycache__/**
+*.pyc
